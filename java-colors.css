@@ -48,8 +48,8 @@
     -bj-selection-color: rgb(22, 22, 7);
     -bj-selection-outer-color: rgb(67, 67, 45);
 
-    -bj-iteration-color: rgb(7, 22, 7);
-    -bj-iteration-outer-color: rgb(45, 78, 45);
+    -bj-iteration-color: #1B1529;
+    -bj-iteration-outer-color: rgb(90, 90, 90);
 
     -bj-breakpoint-overlay-color: rgba(55, 235, 235, 0.6);
     -bj-step-overlay-color: rgba(235, 115, 235, 0.6);
@@ -66,7 +66,7 @@
 }
 
 .moe-find-result {
-    -rtfx-background-color: hsb(211, 20%, 99%); // not sure what this does... ctrl+f highlighting is managed by -fx-highlight-fill
+    -rtfx-background-color: rgb(50,50,80); // not sure what this does... ctrl+f highlighting is managed by -fx-highlight-fill
 }
 .moe-editor-pane .caret {
    -fx-stroke: rgb(255, 200, 200);
