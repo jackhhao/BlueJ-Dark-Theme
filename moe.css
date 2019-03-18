@@ -145,7 +145,7 @@
 }
 /* Don't show when printing */
 .moe-editor-pane:bj-screen .moe-bracket-highlight {
-    -rtfx-background-color: hsb(0, 0%, 70%);
+    -rtfx-background-color: rgb(80, 80, 120);
 }
 
 /* colors are in java-colors.css */
